@@ -1,0 +1,38 @@
+/*кнопки меню*/
+.blubtn {
+    margin-left: 4%;
+    margin-top: 2px;
+    margin-right: -2%;
+  width:250px;
+    height: 95px;
+  display:block;
+  font-family: Times New Roman;
+  text-decoration: none;
+  font-weight: 300;
+  font-size: 34px;
+    background-color:whitesmoke;
+  color: #000000;
+  transition: .5s;
+  border-radius: 20px;
+    float:left;
+}
+/*наведение на кнопку*/
+.blubtn:hover {
+  top: 5px;
+  transition: .1s;
+  color: #000000;
+  outline: #FF4E4E 2px solid;
+  border-radius: 45px;
+}
+/*нажатие на кнопу*/
+.blubtn:active {
+  outline: #639CF2 3px solid;
+  transition: .07s;
+}
+.blubtn a{
+    text-align: center;
+    align-content: center;
+    padding-top: auto;
+    text-decoration: none;
+    color: black;
+}

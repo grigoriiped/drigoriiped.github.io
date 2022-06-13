@@ -1,0 +1,251 @@
+body{
+    background: url( fon.jpg);
+    margin: 0;
+}
+#str{
+    background-color: #483D8B;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    margin-bottom: -100px;
+    margin-top: 20px;
+}
+.q1{
+    width: 100%;
+    color: white;
+    height: 100px;
+}
+.q2{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.q3{
+    width: 100%;
+    height: 2400px;
+}
+.q4{
+    width: 100%;
+    height: 50px;
+    float: left;
+    outline: 2px solid #000;
+}
+.img1{
+    margin-top: 25px;
+    left: 200px;
+    position: absolute;
+    width: 400px;
+    height: 230px;
+}
+.img2{
+   margin-top: 285px;
+    left: 200px;
+    position: absolute;
+    width: 400px;
+    height: 230px;
+}
+.img3{
+    width: 400px;
+    height: 230px;
+    position: absolute;
+    margin-top: 545px;
+    left: 200px;
+}
+.img5{
+    width: 400px;
+    height: 230px;
+    position: absolute;
+    margin-top: 805px;
+    left: 200px;
+}
+.img6{
+    width: 400px;
+    height: 230px;
+    position: absolute;
+    margin-top: 1065px;
+    left: 200px;
+}
+.img7{
+    width: 400px;
+    height: 230px;
+    position: absolute;
+    margin-top: 1330px;
+    left: 200px;
+}
+.img8{
+    width: 400px;
+    height: 230px;
+    position: absolute;
+    MARGIN-top: 1605px;
+    left: 200px;
+}
+.img9{
+    width: 400px;
+    height: 230px;
+    position: absolute;
+    margin-top: 1875px;
+    left: 200px;
+}
+.img10{
+    width: 400px;
+    height: 230px;
+    position: absolute;
+    margin-top: 2140px;
+    left: 200px;
+}
+#a1{
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 200px;
+    background-color: aliceblue;
+}
+#a2{
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 465px;
+    background-color: aliceblue;
+}
+#a3{
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 725px;
+    background-color: aliceblue;
+}
+#a5{
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 985px;
+    background-color: aliceblue;
+}
+#a6{
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 1250px;
+    background-color: aliceblue;
+}
+#a7{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: 1515px;
+    background-color: aliceblue;
+}
+#a8{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: 1785px;
+    background-color: aliceblue;
+}
+#a9{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: 2055px;
+    background-color: aliceblue;
+}
+#a10{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: 2320px;
+    background-color: aliceblue;
+}
+.info{
+    margin-top: 25px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}
+.info1{
+    margin-top: 285px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}
+.info2{
+    margin-top: 545px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}
+.info4{
+    margin-top: 805px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}
+.info5{
+    margin-top: 1050px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}
+.info6{
+    margin-top: 1315px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}
+.info7{
+    margin-top: 1585px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}
+.info8{
+    margin-top: 1855px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}
+.info9{
+    margin-top: 2125px;
+    margin-left: 630px;
+    font-size: 20px;
+    background-color: azure;
+    height: 150px;
+    width: 54%;
+    padding: 10px 0px 0px 10px; 
+    border-radius: 10px;
+    position: absolute;
+}

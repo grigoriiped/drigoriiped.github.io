@@ -1,0 +1,18 @@
+/*нопки контента*/
+a.but{
+    display: inline-block ;
+    text-decoration: none ;
+    background-color: transparent;
+    color: black;
+    border: 3px solid #36e777 ;
+    border-radius: 25px ;
+    font-size: 20px ;
+    padding: 10px 20px ; 
+    transition: all 0.3s ease ;
+}
+a.but:hover{
+    text-decoration: none ; 
+    background-color:transparent;
+    color: black;
+    border-color: #b15e1a ;
+}
